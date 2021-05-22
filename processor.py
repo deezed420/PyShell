@@ -94,6 +94,6 @@ def process(input_str):
                         else:
                             print("No")
                     else:
-                        print(f"{colors.CRED}Invalid Operator when tracing to arg1{colors.CEND}")
+                        print(f"{colors.CRED}Invalid Operator{colors.CEND}")
                 else:
-                    print(f"{colors.CRED}Invalid Operator when tracing to arg1{colors.CEND}")
+                    print(f"{colors.CRED}Invalid Operator{colors.CEND}")
