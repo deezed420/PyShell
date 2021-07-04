@@ -6,9 +6,5 @@ It has a config.json file to give you some control if not familiar with writing 
 You can input math problems (i.e 1 + 1 or 5 ** 2) or comparason over numbers (i.e 1 < 1) or some commands like print or var (print well prints the inputted text and var assigns a value to a variable name of your choice)
 More commands will come out soon.
 # Info
-##  Commands:
-layout:
-command      benefit
-print   ;    prints text or variables into terminal
-var     ;    lets you store a float, int or string
-math    ;    lets you do math
+##  Commands
+print, var, and math.
