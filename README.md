@@ -10,4 +10,3 @@ More commands will come out soon.
 # Info
 ##  Commands
 print, var, and math.
-- ![#f03c15](DEEZ) `#f03c15`
