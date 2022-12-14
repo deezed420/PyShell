@@ -10,4 +10,4 @@ More commands will come out soon.
 # Info
 ##  Commands
 print, var, and math.
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15](DEEZ) `#f03c15`
